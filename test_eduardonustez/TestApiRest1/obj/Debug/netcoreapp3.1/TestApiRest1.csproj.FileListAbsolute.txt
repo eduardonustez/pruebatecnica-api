@@ -1,0 +1,211 @@
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\TestApiRest1.exe
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\TestApiRest1.deps.json
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\TestApiRest1.runtimeconfig.json
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\TestApiRest1.runtimeconfig.dev.json
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\TestApiRest1.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\TestApiRest1.pdb
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\test.Application.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\test.Data.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\test.Domain.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\test.Application.pdb
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\test.Data.pdb
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\test.Domain.pdb
+D:\Demos\TestApiRest1\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.csprojAssemblyReference.cache
+D:\Demos\TestApiRest1\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.AssemblyInfoInputs.cache
+D:\Demos\TestApiRest1\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.AssemblyInfo.cs
+D:\Demos\TestApiRest1\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.RazorTargetAssemblyInfo.cache
+D:\Demos\TestApiRest1\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.csproj.CopyComplete
+D:\Demos\TestApiRest1\TestApiRest1\obj\Debug\netcoreapp3.1\staticwebassets\TestApiRest1.StaticWebAssets.Manifest.cache
+D:\Demos\TestApiRest1\TestApiRest1\obj\Debug\netcoreapp3.1\staticwebassets\TestApiRest1.StaticWebAssets.xml
+D:\Demos\TestApiRest1\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.dll
+D:\Demos\TestApiRest1\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.pdb
+D:\Demos\TestApiRest1\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.genruntimeconfig.cache
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Demos\TestApiRest1\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.csproj.CoreCompileInputs.cache
+D:\Demos\TestApiRest1\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.MvcApplicationPartsAssemblyInfo.cs
+D:\Demos\TestApiRest1\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.MvcApplicationPartsAssemblyInfo.cache
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Demos\TestApiRest1\TestApiRest1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\Oracle.EntityFrameworkCore.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\test.Application.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\test.Data.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\test.Domain.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\test.Application.pdb
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\test.Data.pdb
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\test.Domain.pdb
+D:\Demos\TestApiRest2\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.csprojAssemblyReference.cache
+D:\Demos\TestApiRest2\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.AssemblyInfoInputs.cache
+D:\Demos\TestApiRest2\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.AssemblyInfo.cs
+D:\Demos\TestApiRest2\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.csproj.CoreCompileInputs.cache
+D:\Demos\TestApiRest2\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.MvcApplicationPartsAssemblyInfo.cs
+D:\Demos\TestApiRest2\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.MvcApplicationPartsAssemblyInfo.cache
+D:\Demos\TestApiRest2\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.RazorTargetAssemblyInfo.cache
+D:\Demos\TestApiRest2\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.csproj.CopyComplete
+D:\Demos\TestApiRest2\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.dll
+D:\Demos\TestApiRest2\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.pdb
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\TestApiRest1.exe
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\TestApiRest1.deps.json
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\TestApiRest1.runtimeconfig.json
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\TestApiRest1.runtimeconfig.dev.json
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\TestApiRest1.dll
+D:\Demos\TestApiRest2\TestApiRest1\bin\Debug\netcoreapp3.1\TestApiRest1.pdb
+D:\Demos\TestApiRest2\TestApiRest1\obj\Debug\netcoreapp3.1\staticwebassets\TestApiRest1.StaticWebAssets.Manifest.cache
+D:\Demos\TestApiRest2\TestApiRest1\obj\Debug\netcoreapp3.1\staticwebassets\TestApiRest1.StaticWebAssets.xml
+D:\Demos\TestApiRest2\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.genruntimeconfig.cache
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\TestApiRest1.exe
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\TestApiRest1.deps.json
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\TestApiRest1.runtimeconfig.json
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\TestApiRest1.runtimeconfig.dev.json
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\TestApiRest1.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\TestApiRest1.pdb
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\Oracle.EntityFrameworkCore.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\test.Application.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\test.Domain.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\test.Infrastructure.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\test.Application.pdb
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\test.Domain.pdb
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\test.Infrastructure.pdb
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.csprojAssemblyReference.cache
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.AssemblyInfoInputs.cache
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.AssemblyInfo.cs
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.RazorTargetAssemblyInfo.cache
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.csproj.CopyComplete
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\obj\Debug\netcoreapp3.1\staticwebassets\TestApiRest1.StaticWebAssets.Manifest.cache
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\obj\Debug\netcoreapp3.1\staticwebassets\TestApiRest1.StaticWebAssets.xml
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.pdb
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.genruntimeconfig.cache
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\libman.json
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.csproj.CoreCompileInputs.cache
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.MvcApplicationPartsAssemblyInfo.cs
+D:\pruebas tecnicas\test_eduardonustez\TestApiRest1\obj\Debug\netcoreapp3.1\TestApiRest1.MvcApplicationPartsAssemblyInfo.cache

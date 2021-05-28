@@ -1,0 +1,22 @@
+<div class="container">
+<h3>Sistema de Facturación</h3>
+<a routerLink="/new" class="btn btn-primary">Nueva Factura</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Fecha</th>
+            <th>Cliente</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let factura of facturas">
+            <td>{{factura.numeroFactura}}</td>
+            <td>{{factura.fecha}}</td>
+            <td>{{factura.cliente}}</td>
+            <td>{{factura.total}}</td>
+        </tr>
+    </tbody>
+</table>
+</div>

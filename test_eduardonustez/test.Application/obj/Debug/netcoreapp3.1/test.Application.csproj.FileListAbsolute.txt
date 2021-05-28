@@ -1,0 +1,42 @@
+D:\Demos\TestApiRest1\test.Application\bin\Debug\netcoreapp3.1\test.Data.dll
+D:\Demos\TestApiRest1\test.Application\bin\Debug\netcoreapp3.1\test.Domain.dll
+D:\Demos\TestApiRest1\test.Application\obj\Debug\netcoreapp3.1\test.Application.csprojAssemblyReference.cache
+D:\Demos\TestApiRest1\test.Application\obj\Debug\netcoreapp3.1\test.Application.AssemblyInfoInputs.cache
+D:\Demos\TestApiRest1\test.Application\obj\Debug\netcoreapp3.1\test.Application.AssemblyInfo.cs
+D:\Demos\TestApiRest1\test.Application\bin\Debug\netcoreapp3.1\test.Application.deps.json
+D:\Demos\TestApiRest1\test.Application\bin\Debug\netcoreapp3.1\test.Application.dll
+D:\Demos\TestApiRest1\test.Application\bin\Debug\netcoreapp3.1\test.Application.pdb
+D:\Demos\TestApiRest1\test.Application\bin\Debug\netcoreapp3.1\test.Data.pdb
+D:\Demos\TestApiRest1\test.Application\bin\Debug\netcoreapp3.1\test.Domain.pdb
+D:\Demos\TestApiRest1\test.Application\obj\Debug\netcoreapp3.1\test.Application.csproj.CoreCompileInputs.cache
+D:\Demos\TestApiRest1\test.Application\obj\Debug\netcoreapp3.1\test.Application.csproj.CopyComplete
+D:\Demos\TestApiRest1\test.Application\obj\Debug\netcoreapp3.1\test.Application.dll
+D:\Demos\TestApiRest1\test.Application\obj\Debug\netcoreapp3.1\test.Application.pdb
+D:\Demos\TestApiRest2\test.Application\bin\Debug\netcoreapp3.1\test.Application.deps.json
+D:\Demos\TestApiRest2\test.Application\bin\Debug\netcoreapp3.1\test.Application.dll
+D:\Demos\TestApiRest2\test.Application\bin\Debug\netcoreapp3.1\test.Application.pdb
+D:\Demos\TestApiRest2\test.Application\bin\Debug\netcoreapp3.1\test.Data.dll
+D:\Demos\TestApiRest2\test.Application\bin\Debug\netcoreapp3.1\test.Domain.dll
+D:\Demos\TestApiRest2\test.Application\bin\Debug\netcoreapp3.1\test.Data.pdb
+D:\Demos\TestApiRest2\test.Application\bin\Debug\netcoreapp3.1\test.Domain.pdb
+D:\Demos\TestApiRest2\test.Application\obj\Debug\netcoreapp3.1\test.Application.csprojAssemblyReference.cache
+D:\Demos\TestApiRest2\test.Application\obj\Debug\netcoreapp3.1\test.Application.AssemblyInfoInputs.cache
+D:\Demos\TestApiRest2\test.Application\obj\Debug\netcoreapp3.1\test.Application.AssemblyInfo.cs
+D:\Demos\TestApiRest2\test.Application\obj\Debug\netcoreapp3.1\test.Application.csproj.CoreCompileInputs.cache
+D:\Demos\TestApiRest2\test.Application\obj\Debug\netcoreapp3.1\test.Application.csproj.CopyComplete
+D:\Demos\TestApiRest2\test.Application\obj\Debug\netcoreapp3.1\test.Application.dll
+D:\Demos\TestApiRest2\test.Application\obj\Debug\netcoreapp3.1\test.Application.pdb
+D:\pruebas tecnicas\test_eduardonustez\test.Application\bin\Debug\netcoreapp3.1\test.Application.deps.json
+D:\pruebas tecnicas\test_eduardonustez\test.Application\bin\Debug\netcoreapp3.1\test.Application.dll
+D:\pruebas tecnicas\test_eduardonustez\test.Application\bin\Debug\netcoreapp3.1\test.Application.pdb
+D:\pruebas tecnicas\test_eduardonustez\test.Application\bin\Debug\netcoreapp3.1\test.Domain.dll
+D:\pruebas tecnicas\test_eduardonustez\test.Application\bin\Debug\netcoreapp3.1\test.Infrastructure.dll
+D:\pruebas tecnicas\test_eduardonustez\test.Application\bin\Debug\netcoreapp3.1\test.Infrastructure.pdb
+D:\pruebas tecnicas\test_eduardonustez\test.Application\bin\Debug\netcoreapp3.1\test.Domain.pdb
+D:\pruebas tecnicas\test_eduardonustez\test.Application\obj\Debug\netcoreapp3.1\test.Application.csprojAssemblyReference.cache
+D:\pruebas tecnicas\test_eduardonustez\test.Application\obj\Debug\netcoreapp3.1\test.Application.AssemblyInfoInputs.cache
+D:\pruebas tecnicas\test_eduardonustez\test.Application\obj\Debug\netcoreapp3.1\test.Application.AssemblyInfo.cs
+D:\pruebas tecnicas\test_eduardonustez\test.Application\obj\Debug\netcoreapp3.1\test.Application.csproj.CoreCompileInputs.cache
+D:\pruebas tecnicas\test_eduardonustez\test.Application\obj\Debug\netcoreapp3.1\test.Application.csproj.CopyComplete
+D:\pruebas tecnicas\test_eduardonustez\test.Application\obj\Debug\netcoreapp3.1\test.Application.dll
+D:\pruebas tecnicas\test_eduardonustez\test.Application\obj\Debug\netcoreapp3.1\test.Application.pdb

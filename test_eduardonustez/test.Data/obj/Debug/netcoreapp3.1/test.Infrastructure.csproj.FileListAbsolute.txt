@@ -1,0 +1,15 @@
+D:\pruebas tecnicas\test_eduardonustez\test.Data\bin\Debug\netcoreapp3.1\test.Infrastructure.deps.json
+D:\pruebas tecnicas\test_eduardonustez\test.Data\bin\Debug\netcoreapp3.1\test.Infrastructure.runtimeconfig.json
+D:\pruebas tecnicas\test_eduardonustez\test.Data\bin\Debug\netcoreapp3.1\test.Infrastructure.runtimeconfig.dev.json
+D:\pruebas tecnicas\test_eduardonustez\test.Data\bin\Debug\netcoreapp3.1\test.Infrastructure.dll
+D:\pruebas tecnicas\test_eduardonustez\test.Data\bin\Debug\netcoreapp3.1\test.Infrastructure.pdb
+D:\pruebas tecnicas\test_eduardonustez\test.Data\bin\Debug\netcoreapp3.1\test.Domain.dll
+D:\pruebas tecnicas\test_eduardonustez\test.Data\bin\Debug\netcoreapp3.1\test.Domain.pdb
+D:\pruebas tecnicas\test_eduardonustez\test.Data\obj\Debug\netcoreapp3.1\test.Infrastructure.csprojAssemblyReference.cache
+D:\pruebas tecnicas\test_eduardonustez\test.Data\obj\Debug\netcoreapp3.1\test.Infrastructure.AssemblyInfoInputs.cache
+D:\pruebas tecnicas\test_eduardonustez\test.Data\obj\Debug\netcoreapp3.1\test.Infrastructure.AssemblyInfo.cs
+D:\pruebas tecnicas\test_eduardonustez\test.Data\obj\Debug\netcoreapp3.1\test.Infrastructure.csproj.CoreCompileInputs.cache
+D:\pruebas tecnicas\test_eduardonustez\test.Data\obj\Debug\netcoreapp3.1\test.Infrastructure.csproj.CopyComplete
+D:\pruebas tecnicas\test_eduardonustez\test.Data\obj\Debug\netcoreapp3.1\test.Infrastructure.dll
+D:\pruebas tecnicas\test_eduardonustez\test.Data\obj\Debug\netcoreapp3.1\test.Infrastructure.pdb
+D:\pruebas tecnicas\test_eduardonustez\test.Data\obj\Debug\netcoreapp3.1\test.Infrastructure.genruntimeconfig.cache

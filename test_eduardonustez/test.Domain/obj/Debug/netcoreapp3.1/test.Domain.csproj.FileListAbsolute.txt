@@ -1,0 +1,27 @@
+D:\Demos\TestApiRest1\test.Domain\bin\Debug\netcoreapp3.1\test.Domain.deps.json
+D:\Demos\TestApiRest1\test.Domain\bin\Debug\netcoreapp3.1\test.Domain.dll
+D:\Demos\TestApiRest1\test.Domain\bin\Debug\netcoreapp3.1\test.Domain.pdb
+D:\Demos\TestApiRest1\test.Domain\obj\Debug\netcoreapp3.1\test.Domain.csprojAssemblyReference.cache
+D:\Demos\TestApiRest1\test.Domain\obj\Debug\netcoreapp3.1\test.Domain.AssemblyInfoInputs.cache
+D:\Demos\TestApiRest1\test.Domain\obj\Debug\netcoreapp3.1\test.Domain.AssemblyInfo.cs
+D:\Demos\TestApiRest1\test.Domain\obj\Debug\netcoreapp3.1\test.Domain.csproj.CoreCompileInputs.cache
+D:\Demos\TestApiRest1\test.Domain\obj\Debug\netcoreapp3.1\test.Domain.dll
+D:\Demos\TestApiRest1\test.Domain\obj\Debug\netcoreapp3.1\test.Domain.pdb
+D:\Demos\TestApiRest2\test.Domain\bin\Debug\netcoreapp3.1\test.Domain.deps.json
+D:\Demos\TestApiRest2\test.Domain\bin\Debug\netcoreapp3.1\test.Domain.dll
+D:\Demos\TestApiRest2\test.Domain\bin\Debug\netcoreapp3.1\test.Domain.pdb
+D:\Demos\TestApiRest2\test.Domain\obj\Debug\netcoreapp3.1\test.Domain.csprojAssemblyReference.cache
+D:\Demos\TestApiRest2\test.Domain\obj\Debug\netcoreapp3.1\test.Domain.AssemblyInfoInputs.cache
+D:\Demos\TestApiRest2\test.Domain\obj\Debug\netcoreapp3.1\test.Domain.AssemblyInfo.cs
+D:\Demos\TestApiRest2\test.Domain\obj\Debug\netcoreapp3.1\test.Domain.csproj.CoreCompileInputs.cache
+D:\Demos\TestApiRest2\test.Domain\obj\Debug\netcoreapp3.1\test.Domain.dll
+D:\Demos\TestApiRest2\test.Domain\obj\Debug\netcoreapp3.1\test.Domain.pdb
+D:\pruebas tecnicas\test_eduardonustez\test.Domain\bin\Debug\netcoreapp3.1\test.Domain.deps.json
+D:\pruebas tecnicas\test_eduardonustez\test.Domain\bin\Debug\netcoreapp3.1\test.Domain.dll
+D:\pruebas tecnicas\test_eduardonustez\test.Domain\bin\Debug\netcoreapp3.1\test.Domain.pdb
+D:\pruebas tecnicas\test_eduardonustez\test.Domain\obj\Debug\netcoreapp3.1\test.Domain.AssemblyInfoInputs.cache
+D:\pruebas tecnicas\test_eduardonustez\test.Domain\obj\Debug\netcoreapp3.1\test.Domain.AssemblyInfo.cs
+D:\pruebas tecnicas\test_eduardonustez\test.Domain\obj\Debug\netcoreapp3.1\test.Domain.csproj.CoreCompileInputs.cache
+D:\pruebas tecnicas\test_eduardonustez\test.Domain\obj\Debug\netcoreapp3.1\test.Domain.dll
+D:\pruebas tecnicas\test_eduardonustez\test.Domain\obj\Debug\netcoreapp3.1\test.Domain.pdb
+D:\pruebas tecnicas\test_eduardonustez\test.Domain\obj\Debug\netcoreapp3.1\test.Domain.csprojAssemblyReference.cache

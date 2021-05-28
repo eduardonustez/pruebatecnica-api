@@ -1,0 +1,36 @@
+D:\Demos\TestApiRest1\test.Data\bin\Debug\netcoreapp3.1\test.Data.deps.json
+D:\Demos\TestApiRest1\test.Data\bin\Debug\netcoreapp3.1\test.Data.dll
+D:\Demos\TestApiRest1\test.Data\obj\Debug\netcoreapp3.1\test.Data.csprojAssemblyReference.cache
+D:\Demos\TestApiRest1\test.Data\obj\Debug\netcoreapp3.1\test.Data.AssemblyInfoInputs.cache
+D:\Demos\TestApiRest1\test.Data\obj\Debug\netcoreapp3.1\test.Data.AssemblyInfo.cs
+D:\Demos\TestApiRest1\test.Data\bin\Debug\netcoreapp3.1\test.Domain.dll
+D:\Demos\TestApiRest1\test.Data\bin\Debug\netcoreapp3.1\test.Data.runtimeconfig.json
+D:\Demos\TestApiRest1\test.Data\bin\Debug\netcoreapp3.1\test.Data.runtimeconfig.dev.json
+D:\Demos\TestApiRest1\test.Data\bin\Debug\netcoreapp3.1\test.Data.pdb
+D:\Demos\TestApiRest1\test.Data\bin\Debug\netcoreapp3.1\test.Domain.pdb
+D:\Demos\TestApiRest1\test.Data\obj\Debug\netcoreapp3.1\test.Data.csproj.CopyComplete
+D:\Demos\TestApiRest1\test.Data\obj\Debug\netcoreapp3.1\test.Data.dll
+D:\Demos\TestApiRest1\test.Data\obj\Debug\netcoreapp3.1\test.Data.pdb
+D:\Demos\TestApiRest1\test.Data\obj\Debug\netcoreapp3.1\test.Data.genruntimeconfig.cache
+D:\Demos\TestApiRest1\test.Data\obj\Debug\netcoreapp3.1\test.Data.csproj.CoreCompileInputs.cache
+D:\Demos\TestApiRest2\test.Data\bin\Debug\netcoreapp3.1\test.Data.deps.json
+D:\Demos\TestApiRest2\test.Data\bin\Debug\netcoreapp3.1\test.Data.runtimeconfig.json
+D:\Demos\TestApiRest2\test.Data\bin\Debug\netcoreapp3.1\test.Data.runtimeconfig.dev.json
+D:\Demos\TestApiRest2\test.Data\bin\Debug\netcoreapp3.1\test.Data.dll
+D:\Demos\TestApiRest2\test.Data\bin\Debug\netcoreapp3.1\test.Data.pdb
+D:\Demos\TestApiRest2\test.Data\bin\Debug\netcoreapp3.1\test.Domain.dll
+D:\Demos\TestApiRest2\test.Data\bin\Debug\netcoreapp3.1\test.Domain.pdb
+D:\Demos\TestApiRest2\test.Data\obj\Debug\netcoreapp3.1\test.Data.csprojAssemblyReference.cache
+D:\Demos\TestApiRest2\test.Data\obj\Debug\netcoreapp3.1\test.Data.AssemblyInfoInputs.cache
+D:\Demos\TestApiRest2\test.Data\obj\Debug\netcoreapp3.1\test.Data.AssemblyInfo.cs
+D:\Demos\TestApiRest2\test.Data\obj\Debug\netcoreapp3.1\test.Data.csproj.CopyComplete
+D:\Demos\TestApiRest2\test.Data\obj\Debug\netcoreapp3.1\test.Data.dll
+D:\Demos\TestApiRest2\test.Data\obj\Debug\netcoreapp3.1\test.Data.pdb
+D:\Demos\TestApiRest2\test.Data\obj\Debug\netcoreapp3.1\test.Data.genruntimeconfig.cache
+D:\Demos\TestApiRest2\test.Data\obj\Debug\netcoreapp3.1\test.Data.csproj.CoreCompileInputs.cache
+D:\pruebas tecnicas\test_eduardonustez\test.Data\obj\Debug\netcoreapp3.1\test.Data.csprojAssemblyReference.cache
+D:\pruebas tecnicas\test_eduardonustez\test.Data\obj\Debug\netcoreapp3.1\test.Data.AssemblyInfoInputs.cache
+D:\pruebas tecnicas\test_eduardonustez\test.Data\obj\Debug\netcoreapp3.1\test.Data.AssemblyInfo.cs
+D:\pruebas tecnicas\test_eduardonustez\test.Data\obj\Debug\netcoreapp3.1\test.Data.csproj.CoreCompileInputs.cache
+D:\pruebas tecnicas\test_eduardonustez\test.Data\obj\Debug\netcoreapp3.1\test.Data.dll
+D:\pruebas tecnicas\test_eduardonustez\test.Data\obj\Debug\netcoreapp3.1\test.Data.pdb
